@@ -1,0 +1,27 @@
+#cart {
+    padding: 20px 15px;
+    height:100%;
+    text-align: center;
+    tr:nth-child(odd) {
+        background: #dedede;
+        .quantitat {
+            background: #dedede;
+            width: 50px;
+            border-bottom: 1px solid #73877b !important;
+            border: none;
+        }
+    }
+    
+    tr:nth-child(even) {
+        background: #fbfbfb;
+        .quantitat {
+            background: #fbfbfb;
+            width: 50px;
+            border-bottom: 1px solid #73877b !important;
+            border: none;
+        }
+    }
+    .container {
+        background: #dedede;
+    }
+}

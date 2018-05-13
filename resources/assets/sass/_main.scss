@@ -1,0 +1,20 @@
+html {
+   * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+
+  }
+  body {
+    background: #73877b;
+    height: 100vh;
+    width: 100%;
+
+    header nav {
+      border-top: 7px solid white;
+    }
+    header .bg-light {
+      background-color: #b5cebf !important;
+    }
+  }
+}

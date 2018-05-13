@@ -1,0 +1,22 @@
+#auth {
+    height: 100%;
+    #app {
+        background: #a9cbb7;
+        margin: 10px;
+        @media (min-width: 768px) {
+            width: 400px;
+            margin: 50px auto;
+        }
+        .navbar {
+            .navbar-nav {
+                margin: 0 auto;
+                li {
+                    padding: 0 50px;
+                }
+            }
+        }
+        .container {
+            margin: 20px auto;
+        }
+    }
+}

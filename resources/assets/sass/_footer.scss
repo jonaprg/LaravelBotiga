@@ -1,0 +1,23 @@
+#footer {
+  background: #839788;
+  text-align: center;
+
+  p {
+    text-align: justify;
+    color: #ffff;
+  }
+  ul.xarxes li {
+    display: inline-block;
+    a {
+      color: #383d3b;
+    }
+  }
+  .avatar {
+    border: 5px solid #bdbbb6;
+    border-radius: 50%;
+    float: left;
+    height: 100px;
+    width: 100px;
+  }
+
+}
